@@ -41,8 +41,8 @@ global.reactmoji = "🗿"
 global . ownertag  = [ 'RaditSuhuu' ] // tag pemilik Anda
 global.ownernummenu = ['6285799850519'] //ur owner number in menu and all
 global . tanda air  =  "ItsukiBot-Md"  // tanda air Andai
-global . botscript  =  "https://youtu.be/
-global . linkz1  =  "https://youtu.be/"
+global . botscript   =   "https://youtu.be/"
+global . linkz1   =   "https://youtu.be/"
 global . linkz2  =  "https://chat.whatsapp.com/"
 
 //Bot theme media
